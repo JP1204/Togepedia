@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Togepedia/static/css/main.5d01dc87.chunk.css",
+    "main.js": "/Togepedia/static/js/main.e65cf191.chunk.js",
+    "main.js.map": "/Togepedia/static/js/main.e65cf191.chunk.js.map",
+    "runtime-main.js": "/Togepedia/static/js/runtime-main.1f885b47.js",
+    "runtime-main.js.map": "/Togepedia/static/js/runtime-main.1f885b47.js.map",
+    "static/css/2.2d63d0b4.chunk.css": "/Togepedia/static/css/2.2d63d0b4.chunk.css",
+    "static/js/2.6d2a2a6f.chunk.js": "/Togepedia/static/js/2.6d2a2a6f.chunk.js",
+    "static/js/2.6d2a2a6f.chunk.js.map": "/Togepedia/static/js/2.6d2a2a6f.chunk.js.map",
+    "index.html": "/Togepedia/index.html",
+    "precache-manifest.dc840083669d1fd6b23c631eb472ca3d.js": "/Togepedia/precache-manifest.dc840083669d1fd6b23c631eb472ca3d.js",
+    "service-worker.js": "/Togepedia/service-worker.js",
+    "static/css/2.2d63d0b4.chunk.css.map": "/Togepedia/static/css/2.2d63d0b4.chunk.css.map",
+    "static/css/main.5d01dc87.chunk.css.map": "/Togepedia/static/css/main.5d01dc87.chunk.css.map",
+    "static/js/2.6d2a2a6f.chunk.js.LICENSE.txt": "/Togepedia/static/js/2.6d2a2a6f.chunk.js.LICENSE.txt",
+    "static/media/BlankPokemon.png": "/Togepedia/static/media/BlankPokemon.fe22dad6.png",
+    "static/media/Types Chart.jpg": "/Togepedia/static/media/Types Chart.d41c5002.jpg",
+    "static/media/bulbasaur.png": "/Togepedia/static/media/bulbasaur.25e30940.png",
+    "static/media/bulbasaur_background.jpg": "/Togepedia/static/media/bulbasaur_background.56053cac.jpg",
+    "static/media/eevee.png": "/Togepedia/static/media/eevee.22093aeb.png",
+    "static/media/eevee_background.jpg": "/Togepedia/static/media/eevee_background.3186a2f1.jpg",
+    "static/media/jaime.jpg": "/Togepedia/static/media/jaime.72fc25ad.jpg",
+    "static/media/jimmy.jpg": "/Togepedia/static/media/jimmy.a73004cb.jpg",
+    "static/media/mihir.jpg": "/Togepedia/static/media/mihir.cc65d305.jpg",
+    "static/media/pikachu.png": "/Togepedia/static/media/pikachu.46e57181.png",
+    "static/media/pikachu_background.png": "/Togepedia/static/media/pikachu_background.3df20d4c.png",
+    "static/media/togepi.png": "/Togepedia/static/media/togepi.7937b552.png",
+    "static/media/togepi_background.jpg": "/Togepedia/static/media/togepi_background.46f97f6e.jpg",
+    "static/media/tristan.jpeg": "/Togepedia/static/media/tristan.7f36044a.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f885b47.js",
+    "static/css/2.2d63d0b4.chunk.css",
+    "static/js/2.6d2a2a6f.chunk.js",
+    "static/css/main.5d01dc87.chunk.css",
+    "static/js/main.e65cf191.chunk.js"
+  ]
+}
